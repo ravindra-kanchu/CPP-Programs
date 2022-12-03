@@ -25,7 +25,7 @@ class complex
     friend class calculator;
 
 public:
-    void setnumber(int n1, int n2)
+    void setnumber( int n1, int n2 )
     {
         a = n1;
         b = n2;
